@@ -1,0 +1,682 @@
+
+=================
+[+] Call log dump
+=================
+
+Date: 2018-09-26 19:13:55 +0000
+OS: Android 8.0.0 - Linux 4.4.78-perf-g13a9b18-00127-gce7bb23 (aarch64)
+Remote IP: 192.168.43.1
+Remote Port: 46687
+
+#1
+Number	: 2804359745
+Name	: Mamá
+Date	: Sat Jul 07 20:59:42 GMT-03:00 2018
+Type	: INCOMING
+Duration: 26
+
+#2
+Number	: 2804359745
+Name	: Mamá
+Date	: Tue Jul 10 23:37:29 GMT-03:00 2018
+Type	: INCOMING
+Duration: 11
+
+#3
+Number	: 2804323166
+Name	: Anto
+Date	: Thu Jul 12 02:51:32 GMT-03:00 2018
+Type	: Unknown
+Duration: 0
+
+#4
+Number	: 2804323166
+Name	: Anto
+Date	: Thu Jul 12 02:51:48 GMT-03:00 2018
+Type	: Unknown
+Duration: 0
+
+#5
+Number	: 2804615539
+Name	: Pablo
+Date	: Mon Jul 16 19:02:36 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 19
+
+#6
+Number	: 2804359745
+Name	: Mamá
+Date	: Wed Jul 18 18:14:06 GMT-03:00 2018
+Type	: INCOMING
+Duration: 26
+
+#7
+Number	: +5492804359745
+Name	: Mamá
+Date	: Wed Jul 18 19:23:33 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#8
+Number	: +5492804359745
+Name	: Mamá
+Date	: Wed Jul 18 19:24:15 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#9
+Number	: +5492804359745
+Name	: Mamá
+Date	: Wed Jul 18 19:32:20 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#10
+Number	: +5492804359745
+Name	: Mamá
+Date	: Wed Jul 18 19:34:18 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#11
+Number	: +5492804359745
+Name	: Mamá
+Date	: Wed Jul 18 19:37:17 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#12
+Number	: +5492804359745
+Name	: Mamá
+Date	: Wed Jul 18 19:42:39 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#13
+Number	: 2804359745
+Name	: Mamá
+Date	: Wed Jul 18 19:50:59 GMT-03:00 2018
+Type	: INCOMING
+Duration: 55
+
+#14
+Number	: 2804359745
+Name	: Mamá
+Date	: Wed Jul 18 20:03:35 GMT-03:00 2018
+Type	: INCOMING
+Duration: 34
+
+#15
+Number	: 2804359745
+Name	: Mamá
+Date	: Wed Jul 18 20:06:00 GMT-03:00 2018
+Type	: INCOMING
+Duration: 5
+
+#16
+Number	: 2804609776
+Name	: Marcelo
+Date	: Thu Jul 19 13:02:08 GMT-03:00 2018
+Type	: INCOMING
+Duration: 43
+
+#17
+Number	: 2804359745
+Name	: Mamá
+Date	: Thu Jul 26 21:08:24 GMT-03:00 2018
+Type	: MISSED
+Duration: 0
+
+#18
+Number	: +5492804359745
+Name	: Mamá
+Date	: Sat Jul 28 13:04:19 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#19
+Number	: 2804615539
+Name	: Pablo
+Date	: Sat Jul 28 17:28:59 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#20
+Number	: +5492804359745
+Name	: Mamá
+Date	: Sat Jul 28 20:15:03 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#21
+Number	: 2804039928
+Name	: Agus Coronado
+Date	: Tue Jul 31 16:01:59 GMT-03:00 2018
+Type	: INCOMING
+Duration: 6
+
+#22
+Number	: 2804359745
+Name	: Mamá
+Date	: Thu Aug 02 15:10:56 GMT-03:00 2018
+Type	: MISSED
+Duration: 0
+
+#23
+Number	: 2804668297
+Name	: Papá
+Date	: Thu Aug 02 18:03:38 GMT-03:00 2018
+Type	: INCOMING
+Duration: 42
+
+#24
+Number	: 2804359745
+Name	: Mamá
+Date	: Fri Aug 03 12:58:08 GMT-03:00 2018
+Type	: INCOMING
+Duration: 55
+
+#25
+Number	: 2804359745
+Name	: Mamá
+Date	: Sat Aug 04 18:49:17 GMT-03:00 2018
+Type	: INCOMING
+Duration: 173
+
+#26
+Number	: 2804399619
+Name	: null
+Date	: Mon Aug 06 17:47:44 GMT-03:00 2018
+Type	: MISSED
+Duration: 0
+
+#27
+Number	: 2804668297
+Name	: Papá
+Date	: Mon Aug 06 18:35:57 GMT-03:00 2018
+Type	: Unknown
+Duration: 0
+
+#28
+Number	: 2804358637
+Name	: Facu
+Date	: Tue Aug 07 00:27:34 GMT-03:00 2018
+Type	: INCOMING
+Duration: 6
+
+#29
+Number	: 2804435050
+Name	: null
+Date	: Wed Aug 08 18:52:13 GMT-03:00 2018
+Type	: INCOMING
+Duration: 21
+
+#30
+Number	: 2804359745
+Name	: Mamá
+Date	: Wed Aug 08 21:20:41 GMT-03:00 2018
+Type	: INCOMING
+Duration: 25
+
+#31
+Number	: 2804359745
+Name	: Mamá
+Date	: Thu Aug 09 15:07:42 GMT-03:00 2018
+Type	: INCOMING
+Duration: 57
+
+#32
+Number	: 2804559166
+Name	: null
+Date	: Fri Aug 10 11:19:31 GMT-03:00 2018
+Type	: INCOMING
+Duration: 15
+
+#33
+Number	: +5492804359745
+Name	: Mamá
+Date	: Fri Aug 10 18:27:30 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 154
+
+#34
+Number	: 2804359745
+Name	: Mamá
+Date	: Sat Aug 11 01:00:45 GMT-03:00 2018
+Type	: INCOMING
+Duration: 12
+
+#35
+Number	: +5492804668297
+Name	: Papá
+Date	: Sat Aug 11 11:54:44 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 10
+
+#36
+Number	: 2804399619
+Name	: null
+Date	: Sat Aug 11 16:17:26 GMT-03:00 2018
+Type	: MISSED
+Duration: 0
+
+#37
+Number	: +5492804359745
+Name	: Mamá
+Date	: Mon Aug 13 09:50:48 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 62
+
+#38
+Number	: +5492804359745
+Name	: Mamá
+Date	: Mon Aug 13 09:52:38 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#39
+Number	: +5492804359745
+Name	: Mamá
+Date	: Mon Aug 13 09:54:07 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 22
+
+#40
+Number	: 2804359745
+Name	: Mamá
+Date	: Wed Aug 15 09:30:08 GMT-03:00 2018
+Type	: INCOMING
+Duration: 46
+
+#41
+Number	: 2804359745
+Name	: Mamá
+Date	: Sat Aug 18 18:25:56 GMT-03:00 2018
+Type	: INCOMING
+Duration: 13
+
+#42
+Number	: 2804276265
+Name	: null
+Date	: Wed Aug 22 11:23:04 GMT-03:00 2018
+Type	: INCOMING
+Duration: 11
+
+#43
+Number	: +5492804359745
+Name	: Mamá
+Date	: Wed Aug 22 15:29:12 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#44
+Number	: +5492804668297
+Name	: Papá
+Date	: Wed Aug 22 15:29:57 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#45
+Number	: +5492804359745
+Name	: Mamá
+Date	: Wed Aug 22 15:30:52 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#46
+Number	: +5492804668297
+Name	: Papá
+Date	: Wed Aug 22 15:31:57 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#47
+Number	: +5492804359745
+Name	: Mamá
+Date	: Wed Aug 22 15:32:44 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#48
+Number	: 2804668297
+Name	: Papá
+Date	: Wed Aug 22 18:25:21 GMT-03:00 2018
+Type	: MISSED
+Duration: 0
+
+#49
+Number	: 2804668297
+Name	: Papá
+Date	: Wed Aug 22 18:45:36 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 11
+
+#50
+Number	: 2804512426
+Name	: null
+Date	: Sat Aug 25 20:23:37 GMT-03:00 2018
+Type	: MISSED
+Duration: 0
+
+#51
+Number	: +5492804359745
+Name	: Mamá
+Date	: Sun Aug 26 19:30:04 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 14
+
+#52
+Number	: +5492804399530
+Name	: null
+Date	: Sat Sep 01 00:08:40 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 11
+
+#53
+Number	: +5492804359745
+Name	: Mamá
+Date	: Fri Sep 07 08:01:48 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 12
+
+#54
+Number	: 2804615539
+Name	: Pablo
+Date	: Sat Sep 08 15:26:59 GMT-03:00 2018
+Type	: INCOMING
+Duration: 26
+
+#55
+Number	: 2804683218
+Name	: Agustin Assef
+Date	: Sat Sep 08 16:09:33 GMT-03:00 2018
+Type	: INCOMING
+Duration: 41
+
+#56
+Number	: +5492804668297
+Name	: Papá
+Date	: Mon Sep 10 12:45:08 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#57
+Number	: +5492804668297
+Name	: Papá
+Date	: Mon Sep 10 13:27:10 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 24
+
+#58
+Number	: +5492804359745
+Name	: Mamá
+Date	: Mon Sep 10 20:16:57 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 0
+
+#59
+Number	: +5492804668297
+Name	: Papá
+Date	: Mon Sep 10 20:17:47 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 9
+
+#60
+Number	: 2804324772
+Name	: Lucas
+Date	: Tue Sep 11 12:27:18 GMT-03:00 2018
+Type	: INCOMING
+Duration: 511
+
+#61
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 00:48:12 GMT-03:00 2018
+Type	: INCOMING
+Duration: 220
+
+#62
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 09:31:47 GMT-03:00 2018
+Type	: INCOMING
+Duration: 38
+
+#63
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 10:21:34 GMT-03:00 2018
+Type	: MISSED
+Duration: 0
+
+#64
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 10:25:56 GMT-03:00 2018
+Type	: MISSED
+Duration: 0
+
+#65
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 11:11:37 GMT-03:00 2018
+Type	: INCOMING
+Duration: 1381
+
+#66
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 11:39:08 GMT-03:00 2018
+Type	: INCOMING
+Duration: 920
+
+#67
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 12:24:58 GMT-03:00 2018
+Type	: INCOMING
+Duration: 33
+
+#68
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 12:26:49 GMT-03:00 2018
+Type	: INCOMING
+Duration: 440
+
+#69
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 12:53:02 GMT-03:00 2018
+Type	: INCOMING
+Duration: 95
+
+#70
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 12:59:47 GMT-03:00 2018
+Type	: INCOMING
+Duration: 512
+
+#71
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 13:13:04 GMT-03:00 2018
+Type	: INCOMING
+Duration: 510
+
+#72
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 13:52:23 GMT-03:00 2018
+Type	: INCOMING
+Duration: 368
+
+#73
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 14:08:08 GMT-03:00 2018
+Type	: INCOMING
+Duration: 1619
+
+#74
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 14:36:06 GMT-03:00 2018
+Type	: INCOMING
+Duration: 106
+
+#75
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 16:24:32 GMT-03:00 2018
+Type	: INCOMING
+Duration: 458
+
+#76
+Number	: 2804324772
+Name	: Lucas
+Date	: Wed Sep 12 23:52:30 GMT-03:00 2018
+Type	: INCOMING
+Duration: 288
+
+#77
+Number	: 2804324772
+Name	: Lucas
+Date	: Thu Sep 13 02:48:07 GMT-03:00 2018
+Type	: INCOMING
+Duration: 536
+
+#78
+Number	: 2804324772
+Name	: Lucas
+Date	: Thu Sep 13 10:47:48 GMT-03:00 2018
+Type	: INCOMING
+Duration: 740
+
+#79
+Number	: 2804324772
+Name	: Lucas
+Date	: Thu Sep 13 11:52:55 GMT-03:00 2018
+Type	: INCOMING
+Duration: 1211
+
+#80
+Number	: 2804324772
+Name	: Lucas
+Date	: Thu Sep 13 13:04:37 GMT-03:00 2018
+Type	: INCOMING
+Duration: 489
+
+#81
+Number	: 2804324772
+Name	: Lucas
+Date	: Thu Sep 13 13:17:14 GMT-03:00 2018
+Type	: INCOMING
+Duration: 712
+
+#82
+Number	: 2804324772
+Name	: Lucas
+Date	: Thu Sep 13 13:55:42 GMT-03:00 2018
+Type	: INCOMING
+Duration: 1231
+
+#83
+Number	: 2804324772
+Name	: Lucas
+Date	: Thu Sep 13 15:13:10 GMT-03:00 2018
+Type	: INCOMING
+Duration: 463
+
+#84
+Number	: +5492804668297
+Name	: Papá
+Date	: Sat Sep 15 13:18:33 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 13
+
+#85
+Number	: 2804615539
+Name	: Pablo
+Date	: Mon Sep 17 15:37:19 GMT-03:00 2018
+Type	: INCOMING
+Duration: 45
+
+#86
+Number	: 2804683218
+Name	: Agustin Assef
+Date	: Mon Sep 17 15:57:52 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 36
+
+#87
+Number	: 2804668297
+Name	: Papá
+Date	: Mon Sep 17 17:08:12 GMT-03:00 2018
+Type	: INCOMING
+Duration: 30
+
+#88
+Number	: 2804324772
+Name	: Lucas
+Date	: Tue Sep 18 14:43:21 GMT-03:00 2018
+Type	: INCOMING
+Duration: 1242
+
+#89
+Number	: 2804324772
+Name	: Lucas
+Date	: Tue Sep 18 15:05:54 GMT-03:00 2018
+Type	: INCOMING
+Duration: 331
+
+#90
+Number	: +5492804359745
+Name	: null
+Date	: Wed Sep 19 15:49:22 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 12
+
+#91
+Number	: +5492804359745
+Name	: null
+Date	: Wed Sep 19 15:49:54 GMT-03:00 2018
+Type	: OUTGOING
+Duration: 3
+
+#92
+Number	: 2804359745
+Name	: Mamá
+Date	: Wed Sep 19 15:50:45 GMT-03:00 2018
+Type	: INCOMING
+Duration: 48
+
+#93
+Number	: 2804358637
+Name	: Facu
+Date	: Sat Sep 22 03:13:05 GMT-03:00 2018
+Type	: MISSED
+Duration: 0
+
+#94
+Number	: 2804358637
+Name	: Facu
+Date	: Sat Sep 22 03:13:58 GMT-03:00 2018
+Type	: MISSED
+Duration: 0
+
+#95
+Number	: 2804276265
+Name	: null
+Date	: Mon Sep 24 11:38:23 GMT-03:00 2018
+Type	: INCOMING
+Duration: 8
+
+#96
+Number	: 2804668297
+Name	: null
+Date	: Tue Sep 25 20:25:54 GMT-03:00 2018
+Type	: INCOMING
+Duration: 8
+
